@@ -25,5 +25,11 @@ This repository showcases the work completed during the December 2024 Bug Jam co
 ### App Requirements  
 [Notion App Requirements](https://www.notion.so/App-Requirements-1536ed1efc938067bb93c918b3fa739f?pvs=21)
 
+## Our Project Docs & Links
+- [Test Cases: Google Sheet](https://docs.google.com/spreadsheets/d/1F9h6H67ElSheIok9zwtasygrP4EKFsQM4pSKBpvLemQ/edit?usp=sharing)
+- [Jira Bug Reports: Google Sheet](https://docs.google.com/spreadsheets/d/1Teq5bOQ4XYe0zX0tlJ09C6VzqhfVNp-qjXtN1Et4We0/edit?usp=sharing)
+- [Judges Feedback](https://docs.google.com/spreadsheets/d/1WXKXmK4fafxnJHs_IOmD-oL1A2_u8XM5ANVWzvHKb44/edit?usp=sharing)
+- [Presentation PDF](https://github.com/Josh-Kleckner/BugJam_Friendsgiving/blob/main/bugJamPresentation_dec24.pdf)
+
 ## Conclusion
 In this Bug Jam competition, our team demonstrated strong problem-solving abilities through rigorous testing, comprehensive test case execution, and meticulous documentation. By identifying critical bugs and ensuring full functionality across multiple environments, we were able to deliver a high-quality assessment of the *Friendsgiving Jam* app. Our detailed bug reports and well-documented test cases, coupled with a professional and engaging project presentation, were key factors that led to our victory. Winning the competition highlights the effectiveness of our approach to testing, teamwork, and communication.
